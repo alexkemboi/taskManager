@@ -1,0 +1,15 @@
+C:\Users\akemboi\source\repos\taskManager\bin\Debug\net8.0\taskManager.exe
+C:\Users\akemboi\source\repos\taskManager\bin\Debug\net8.0\taskManager.deps.json
+C:\Users\akemboi\source\repos\taskManager\bin\Debug\net8.0\taskManager.runtimeconfig.json
+C:\Users\akemboi\source\repos\taskManager\bin\Debug\net8.0\taskManager.dll
+C:\Users\akemboi\source\repos\taskManager\bin\Debug\net8.0\taskManager.pdb
+C:\Users\akemboi\source\repos\taskManager\obj\Debug\net8.0\taskManager.csproj.AssemblyReference.cache
+C:\Users\akemboi\source\repos\taskManager\obj\Debug\net8.0\taskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akemboi\source\repos\taskManager\obj\Debug\net8.0\taskManager.AssemblyInfoInputs.cache
+C:\Users\akemboi\source\repos\taskManager\obj\Debug\net8.0\taskManager.AssemblyInfo.cs
+C:\Users\akemboi\source\repos\taskManager\obj\Debug\net8.0\taskManager.csproj.CoreCompileInputs.cache
+C:\Users\akemboi\source\repos\taskManager\obj\Debug\net8.0\taskManager.dll
+C:\Users\akemboi\source\repos\taskManager\obj\Debug\net8.0\refint\taskManager.dll
+C:\Users\akemboi\source\repos\taskManager\obj\Debug\net8.0\taskManager.pdb
+C:\Users\akemboi\source\repos\taskManager\obj\Debug\net8.0\taskManager.genruntimeconfig.cache
+C:\Users\akemboi\source\repos\taskManager\obj\Debug\net8.0\ref\taskManager.dll
